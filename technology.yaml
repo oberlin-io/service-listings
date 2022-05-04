@@ -1,2 +1,3 @@
 - {name: Regular Expressions, desc: String matching patterns, cat: Data Transformation}
 - {name: YAML, desc: Human-readable data serialization, cat: Data Management}
+- {name: Airflow Operators, desc: Job scheduler extension, cat: Data ETL}
