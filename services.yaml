@@ -1,2 +1,2 @@
-- {name: Summary statistics, desc: "Automate mean, median, standard deviation, etc on measures", cat: Analytics}
-
+- {name: Summary statistics, desc: "Automate mean, median, standard deviation, etc on measures", cat: Data Analytics}
+- {name: Tableau Web Data Connector, desc: Host a custom data pipeline that integrates with Tableau, cat: Data Integration}
