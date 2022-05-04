@@ -1,3 +1,4 @@
 - {name: Summary statistics, desc: "Automate mean, median, standard deviation, etc on measures", cat: Data Analytics}
 - {name: Tableau Web Data Connector, desc: Host a custom data pipeline that integrates with Tableau, cat: Data Integration}
 - {name: Windows Active Directory data parsing, desc: Query the AD and parse out and report on data points, cat: Data Analytics}
+- {name: Airflow custom operators, desc: "Develop custom operator code to achieve dynamic, automated creation of DAGs", cat: Data ETL}
